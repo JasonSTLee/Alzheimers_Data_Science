@@ -2,8 +2,7 @@
 
 This project was conceived, designed, developed, and managed by the following development team:
 
-### * [malakalnawar](https://github.com/malakalnawar)
-* ### [jefferey](https://github.com/jromero121)
+### [Malakalnawar](https://github.com/malakalnawar), [Jefferey](https://github.com/jromero121)
 
 * **Primary Role**: 
 * **Technical Contributions**:
@@ -12,6 +11,7 @@ This project was conceived, designed, developed, and managed by the following de
 ## Project Events and Code Development
 
 * [04/04/25]: Research and created diagram for CNN and backpropagation
+* [04/10/25]: Gather MRI images from [ADNI](https://adni.loni.usc.edu/)
 
 # Alzheimers Data Science Project
 
