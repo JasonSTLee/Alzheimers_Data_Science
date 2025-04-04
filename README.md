@@ -8,5 +8,5 @@
 
 ## To-do List
 
-## - [x] Learn math of Convolutional network
-## - []
+## -[x] Learn math of Convolutional network
+## -[ ]
