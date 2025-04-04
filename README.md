@@ -2,7 +2,8 @@
 
 This project was conceived, designed, developed, and managed by the following development team:
 
-### [malakalnawar](https://github.com/malakalnawar)[jefferey](https://github.com/jromero121)
+### * [malakalnawar](https://github.com/malakalnawar)
+### * [jefferey](https://github.com/jromero121)
 
 * **Primary Role**: 
 * **Technical Contributions**:
