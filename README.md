@@ -11,6 +11,7 @@ This project was conceived, designed, developed, and managed by the following de
 ## Project Events and Code Development
 
 * [04/04/25]: Research and created diagram for CNN and backpropagation
+* [04/11/25]: Programmed CNN model and trained with transformed data
 
 # Alzheimers Data Science Project
 
@@ -21,7 +22,7 @@ This project was conceived, designed, developed, and managed by the following de
 ## To-do List
 
 - [x] Researched and created diagram for CNN and backpropagation by learning the math behind the model
-- [ ] Gather MRI images from [ADNI](https://adni.loni.usc.edu/)
+- [x] Gather MRI images from [ADNI](https://adni.loni.usc.edu/)
 - [ ] Code CNN with Pytorch
 - [ ] Tuning Hyperparameters
 
