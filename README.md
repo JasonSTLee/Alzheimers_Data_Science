@@ -23,7 +23,7 @@ This project was conceived, designed, developed, and managed by the following de
 
 - [x] Researched and created diagram for CNN and backpropagation by learning the math behind the model
 - [x] Gather MRI images from [ADNI](https://adni.loni.usc.edu/)
-- [ ] Code CNN with Pytorch
+- [x] Code CNN with Pytorch
 - [ ] Tuning Hyperparameters
 
 
