@@ -12,6 +12,7 @@ This project was conceived, designed, developed, and managed by the following de
 
 * [04/04/25]: Research and created diagram for CNN and backpropagation
 * [04/11/25]: Programmed CNN model and trained with transformed data
+* [04/17/25]: Implemented different CNN architectures: Shallow CNN (SCNN), ResNet and LeNet-5
 
 # Alzheimers Data Science Project
 
@@ -24,6 +25,8 @@ This project was conceived, designed, developed, and managed by the following de
 - [x] Researched and created diagram for CNN and backpropagation by learning the math behind the model
 - [x] Gather MRI images from [ADNI](https://adni.loni.usc.edu/)
 - [x] Code CNN with Pytorch
-- [ ] Tuning Hyperparameters
+- [x] Tuning Hyperparameters
+- [x] Learn different CNN architectures to test different models
+- [ ] Learn ADAM, BCEWithLogitsLoss, and Sci-kit test metrics: roc_auc_score, accuracy_score, classification_report, recall_score, f1_score, precision_score
 
 
